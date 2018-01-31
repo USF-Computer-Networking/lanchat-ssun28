@@ -4,12 +4,14 @@ Working Groups (WGs) are the primary mechanism for development of IETF specifica
 
 Working Groups are typically created with a charter that describes the specific problem or deliverables (a guideline, standards specification, etc.) it has been formed to address. WG charters state the scope of work for group, and lay out goals and milestones that show how this work will be completed.
 
-**Material can be found at [https://www.ietf.org/how/wgs/](https://www.ietf.org/how/wgs/) . **
+**Material can be found at [https://www.ietf.org/how/wgs/](https://www.ietf.org/how/wgs/) .**
 
 ## DNS Over HTTPS (doh)
 
 **Area** Applications and Real-Time Area (art)
+
 **State**	Active
+
 **Dependencies** [Document dependency graph](https://datatracker.ietf.org/wg/doh/deps/svg/) (SVG)
 
 This working group will standardize encodings for DNS queries and responses
@@ -44,7 +46,9 @@ specified mechanism.
 ## IPv6 over Networks of Resource-constrained Nodes (6lo)
 
 **Area** Internet Area (int)
+
 **State**	Active
+
 **Dependencies** [Document dependency graph (SVG)](https://datatracker.ietf.org/wg/6lo/deps/svg/)
 
 6lo focuses on the work that facilitates IPv6 connectivity over constrained node networks with the characteristics of:
@@ -86,7 +90,9 @@ LWIG and INTAREA.
 ## IP Security Maintenance and Extensions (ipsecme)
 
 **Area** Security Area (sec)
+
 **State**	Active
+
 **Dependencies** [Document dependency graph (SVG)](https://datatracker.ietf.org/wg/ipsecme/deps/svg/)
 
 The IPsec suite of protocols includes IKEv1 (RFC 2409 and associated
