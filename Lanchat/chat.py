@@ -1,5 +1,15 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
+"""
+    chat.py
+
+    A program that supports sending text messages carried 
+    in UDF packets
+
+    specify an address and port from which to receive data
+
+"""
+
 import socket
 import threading
 
