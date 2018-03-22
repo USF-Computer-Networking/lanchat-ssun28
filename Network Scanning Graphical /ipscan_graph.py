@@ -1,12 +1,12 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 """
-	ipscan_graph.py
-
-	A program to build on  network scanning and 
+    ipscan_graph.py
+    
+    A program to build on  network scanning and 
     present the information in a graphical manner.
 
-	To see the valid IP of your local area network, 
+    To see the valid IP of your local area network, 
     and the IP addresses are not occupied.
 """
 
